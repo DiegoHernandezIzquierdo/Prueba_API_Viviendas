@@ -73,18 +73,6 @@
     { "id": 5, "nombre": "Buenas vistas" }
   ],
 
-  "vivienda_etiqueta": [
-    { "viviendaId": 1, "etiquetaId": 1 },
-    { "viviendaId": 1, "etiquetaId": 5 },
-    { "viviendaId": 2, "etiquetaId": 2 },
-    { "viviendaId": 3, "etiquetaId": 5 },
-    { "viviendaId": 4, "etiquetaId": 3 },
-    { "viviendaId": 5, "etiquetaId": 4 },
-    { "viviendaId": 6, "etiquetaId": 2 },
-    { "viviendaId": 7, "etiquetaId": 5 },
-    { "viviendaId": 8, "etiquetaId": 1 },
-    { "viviendaId": 9, "etiquetaId": 3 }
-  ],
 
   "propietario": [
     { "id": 1, "nombre": "Pablo", "telefono": "+34 601 11 11 11","IDCasas": [1, 14, 27]},
