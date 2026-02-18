@@ -6,7 +6,7 @@
       "precio": 100000,
       "propietarioId": 1,
       "direccionId": 1,
-      "marcasId": [5, 6]
+      "caracteristicasId": [5, 6]
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "precio": 100000,
       "propietarioId": 2,
       "direccionId": 2,
-      "marcasId": [1, 2]
+      "caracteristicasId": [1, 2]
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "precio": 100000,
       "propietarioId": 3,
       "direccionId": 3,
-      "marcasId": [1]
+      "caracteristicasId": [1]
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "precio": 100000,
       "propietarioId": 4,
       "direccionId": 4,
-      "marcasId": [2, 3]
+      "caracteristicasId": [2, 3]
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "precio": 100000,
       "propietarioId": 1,
       "direccionId": 5,
-      "marcasId": [5]
+      "caracteristicasId": [5]
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "precio": 100000,
       "propietarioId": 2,
       "direccionId": 6,
-      "marcasId": [6]
+      "caracteristicasId": [6]
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "precio": 100000,
       "propietarioId": 3,
       "direccionId": 7,
-      "marcasId": [3, 4]
+      "caracteristicasId": [3, 4]
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "precio": 100000,
       "propietarioId": 4,
       "direccionId": 8,
-      "marcasId": [4]
+      "caracteristicasId": [4]
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "precio": 100000,
       "propietarioId": 1,
       "direccionId": 9,
-      "marcasId": [1]
+      "caracteristicasId": [1]
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "precio": 100000,
       "propietarioId": 2,
       "direccionId": 10,
-      "marcasId": [6]
+      "caracteristicasId": [6]
     }
   ],
   "propietario": [
@@ -99,7 +99,7 @@
     { "id": 9, "ciudad": "Barcelona", "calle": "Monasterio de Siresa", "Piso": "2, 2ºB" },
     { "id": 10, "ciudad": "Cuenca", "calle": "Plaza del Mercado", "Piso": "Casa colgante 1" }
   ],
-  "etiqueta": [
+  "caracteristica": [
     { "id": 1, "nombre": "Ático", "viviendasIds": [2, 3, 9] },
     { "id": 2, "nombre": "Centro", "viviendasIds": [2, 4] },
     { "id": 3, "nombre": "Playa", "viviendasIds": [4, 7] },
